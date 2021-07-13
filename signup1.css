@@ -1,0 +1,10 @@
+button[id="primary-btn"]{
+    font-size: 150%;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+
+a[id="Forgot Password?"]{
+    text-decoration: underline;
+}
